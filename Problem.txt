@@ -1,0 +1,15 @@
+Problem 1:
+Create a default route that servers the following message: "You are connected, but route not given or incorrect....";
+
+Problem 2:
+Create a route called customers that gets the customer table.
+
+Problem 3:
+Create a route called employees that get the employees table.
+
+Problem 4:
+Create a route called albumsinfo that gets the albums with the track information and artists informatoin.
+
+Problme 6: 
+Create a route called customersongs that the all customer first and last name, the song names and date of purchase (ie, Invoice Date) of each song.
+
